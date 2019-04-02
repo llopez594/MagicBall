@@ -11,12 +11,10 @@
     <color name="black">#000000</color>
 
     <integer-array name="phrasesColors">
-        <item>@color/</item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-
-        arrayOf(Color.CYAN, Color.RED, Color.MAGENTA, Color.GREEN, Color.BLACK)
+        <item>@color/cyan</item>
+        <item>@color/red</item>
+        <item>@color/magenta</item>
+        <item>@color/green</item>
+        <item>@color/black</item>
     </integer-array>
 </resources>

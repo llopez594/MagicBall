@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Magic Ball</string>
+    <string-array name="phrases">
+        <item>prueba presionando de nuevo</item>
+        <item>nada</item>
+        <item>hola</item>
+        <item>no</item>
+        <item>si</item>
+        <item>no me parece</item>
+        <item>Talvez</item>
+        <item>Yo no lo creo</item>
+    </string-array>
+</resources>
